@@ -52,3 +52,44 @@ Dependencies
  - Vault
  - ProtocolLib
  - LibsDisguises
+
+Custom Features
+=======
+ - WHEN TITANAPI IS DOWNLOADED:
+ - Custom Scoreboard 
+ - Custom Donor Ranks
+    - VIP
+    - VIP+
+    - MVP
+    - MVP+
+    - Titan
+  - Custom Staff Ranks
+    - Helper
+    - Mod (moderator)
+    - Admin
+    - Owner
+
+ - Configurable
+ - Own BanManagement
+ - Profile Menu
+ - Custom Vanity Shop (rank perk or mystery chest granted)
+    - Pets
+    - Wardrobe
+    - Particle Menu
+    - Gadgets
+    - Music Menu
+    - Disguise Menu
+ - Mystery Chest
+ - ServerSelector
+ - Chat Channels
+    - Staff chat
+    - Global chat
+    - Premium chat  
+ - Broadcasting
+ - Tokens
+ - Achievements menu
+ - Bungeecord
+ - Chat Regions
+ - World Regions
+    - custom world generator
+ - And More !!
