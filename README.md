@@ -92,7 +92,7 @@ Custom Features
 
 Custom Staff Ranks
 =======
-    - Helper
+    - Helper (helperator)
     - Mod (moderator)
     - Admin
     - Owner
