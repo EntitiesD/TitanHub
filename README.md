@@ -61,8 +61,8 @@ Custom Features
     - VIP
     - VIP+
     - MVP
-    - MVP+
-    - Titan
+    - MVP+ (fly + most Gadgets)
+    - Titan (everything)
 
   - Custom Staff Ranks
     - Helper
