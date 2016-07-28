@@ -46,9 +46,9 @@ SOFTWARE.
 Dependencies
 =======
 
-Spigot or Bukkit 1.8
-TitanAPI
-HolographicDisplays
-Vault
-ProtocolLib
-LibsDisguises
+ - Spigot or Bukkit 1.8
+ - TitanAPI
+ - HolographicDisplays
+ - Vault
+ - ProtocolLib
+ - LibsDisguises
