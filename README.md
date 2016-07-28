@@ -57,19 +57,6 @@ Custom Features
 =======
  - WHEN TITANAPI IS DOWNLOADED:
  - Custom Scoreboard 
- - Custom Donor Ranks
-    - VIP
-    - VIP+
-    - MVP
-    - MVP+ (fly + most Gadgets)
-    - Titan (everything)
-
-  - Custom Staff Ranks
-    - Helper
-    - Mod (moderator)
-    - Admin
-    - Owner
-
  - Configurable
  - Own BanManagement
  - Profile Menu
@@ -94,3 +81,18 @@ Custom Features
  - World Regions
     - custom world generator
  - And More !!
+
+ Custom Donor Ranks
+=======
+    - VIP
+    - VIP+
+    - MVP
+    - MVP+ (fly + most Gadgets)
+    - Titan (everything)
+
+Custom Staff Ranks
+=======
+    - Helper
+    - Mod (moderator)
+    - Admin
+    - Owner
